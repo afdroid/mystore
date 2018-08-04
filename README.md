@@ -13,6 +13,6 @@ This is a simple e-commerce project using Spree.
 
 * vinsol_spree_themes gem applied, version ~> 3-2-stable
 
-* theme applies ~> default
+* theme applied ~> default
 
 * images obtained from the internet for educational and non-profit use
